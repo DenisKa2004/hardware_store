@@ -19,19 +19,12 @@
   <li><strong>Система оплаты:</strong> Сбербанк API для проведения платежей.</li>
 </ul>
 
-<h2>Скриншоты приложения:</h2>
-<p>Ниже представлены скриншоты приложения, демонстрирующие различные функции.</p>
+<img src="https://github.com/DenisKa2004/hardware_store/blob/main/git_resurs/Screenshot_20241020_150504.png" alt="Скриншот 1" width="300"/>
+<img src="https://github.com/DenisKa2004/hardware_store/blob/main/git_resurs/Screenshot_20241020_150543.png" alt="Скриншот 2" width="300"/>
 
-<img src="https://crimson-phantom.ru/img/Screenshot_20241020_150504.png" alt="Скриншот 1" width="300"/>
-<img src="https://crimson-phantom.ru/img/Screenshot_20241020_150543.png" alt="Скриншот 2" width="300"/>
+[Посмотреть видео](https://github.com/DenisKa2004/hardware_store/raw/main/git_resurs/Screen_recording_20241020_150639.webm)
 
-<h2>Демонстрация:</h2>
-<p>Посмотрите короткий ролик, демонстрирующий работу приложения:</p>
 
-<video width="600" controls>
-  <source src="https://crimson-phantom.ru/img/Screen_recording_20241020_150639.webm" type="">
-  Ваш браузер не поддерживает воспроизведение видео.
-</video>
 
 <h2>Как запустить проект:</h2>
 <ol>
