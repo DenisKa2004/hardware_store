@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="#FF7A00"
+    android:layout_height="match_parent"
+    tools:context=".AutActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="@font/inter_bold"
+        android:layout_marginTop="200dp"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:text="Войдите в аккаунт"
+        android:textColor="#CCCCCC" />
+
+    <EditText
+        android:id="@+id/user_login_aut"
+        android:layout_width="220dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:ems="10"
+        android:inputType="text"
+        android:layout_gravity="center"
+        android:textColor="#2B2B2B"
+        android:text=""
+        android:hint="Введите логин"
+        android:textColorHint="#2B2B2B"/>
+
+
+
+    <EditText
+        android:id="@+id/user_pass_aut"
+        android:layout_width="220dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:ems="10"
+        android:inputType="textPassword"
+        android:layout_gravity="center"
+        android:textColor="#2B2B2B"
+        android:text=""
+        android:hint="Введите пароль"
+        android:textColorHint="#2B2B2B"/>
+
+    <Button
+        android:id="@+id/button_aut"
+        android:layout_width="220dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="40dp"
+        android:layout_gravity="center"
+        android:backgroundTint="#2B2B2B"
+        android:textStyle="bold"
+        android:textColor="#CCCCCC"
+        android:text="Войти" />
+
+    <TextView
+        android:id="@+id/link_reg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="@font/inter_bold"
+        android:layout_marginTop="200dp"
+        android:textSize="17sp"
+        android:textStyle="normal"
+        android:text="Зарегестрироваться"
+        android:textColor="#CCCCCC" />
+</LinearLayout>
+

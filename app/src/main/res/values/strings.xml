@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test_Application</string>
+    <string name="button_back">назад</string>
+    <string name="textview">Текст</string>
+    <string name="text_buy">Купить</string>
+    <string name="text_watch">Посмотреть</string>
+</resources>
