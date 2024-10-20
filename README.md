@@ -19,12 +19,16 @@
   <li><strong>Система оплаты:</strong> Сбербанк API для проведения платежей.</li>
 </ul>
 
-<img src="https://github.com/DenisKa2004/hardware_store/blob/main/git_resurs/Screenshot_20241020_150504.png" alt="Скриншот 1" width="300"/>
-<img src="https://github.com/DenisKa2004/hardware_store/blob/main/git_resurs/Screenshot_20241020_150543.png" alt="Скриншот 2" width="300"/>
+<h2>Регистрация, авторизация:</h2>
+<div style="text-align: center;">
+    <img src="https://github.com/DenisKa2004/hardware_store/blob/main/git_resurs/Screenshot_20241020_150504.png" alt="Скриншот 1" width="150" style="margin-right: 50px;"/>
+    <img src="https://github.com/DenisKa2004/hardware_store/blob/main/git_resurs/Screenshot_20241020_150543.png" alt="Скриншот 2" width="150"/>
+</div>
 
-[Посмотреть видео](https://github.com/DenisKa2004/hardware_store/raw/main/git_resurs/Screen_recording_20241020_150639.webm)
-
-
+<h2>Демонтрация:</h2>
+<div style="text-align: center; margin-top: 200px;">
+    <img src="https://github.com/DenisKa2004/hardware_store/raw/main/git_resurs/Screen_recording_20241020_150639.gif" alt="Демонстрация приложения" width="150"/>
+</div>
 
 <h2>Как запустить проект:</h2>
 <ol>
@@ -35,4 +39,14 @@
 </ol>
 
 <h2>Контакты:</h2>
-<p>Если у вас есть вопросы или предложения, пишите мне: <a href="mailto:example@example.com">example@example.com</a></p>
+    <p>
+        <a href="https://t.me/BaLastlll">
+            <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+        </a>
+        <a href="https://wa.me/89151441026">
+            <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+        </a>
+        <a href="https://crimson-phantom.ru/">
+            <img src="https://img.shields.io/badge/Портфолио-000000?style=for-the-badge&logo=about.me&logoColor=whit" alt="Портфолио">
+        </a>
+    </p>
